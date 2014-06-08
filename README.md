@@ -1,14 +1,16 @@
 etb-api
 =======
 
-API etb.gpb.ru 
+API http://etp.gpb.ru  
 
 ```php
 
-require('/path/to/etp/lib'); 
+require('/path/to/etp/lib/etp.php');  
 
 $etp = new ETP(); 
 
 $company_list = $etp->getCompanyList(); 
+
+$producers 	  = $etp->getProducers();  
 
 ```

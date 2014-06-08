@@ -16,11 +16,11 @@ class ETP {
 
 	public function getProcedures(){
 		$this->url = "https://etp.gpb.ru/api/procedures.php"; 
-		$this->setUrlOffset(1); 	
+		$this->setUrlOffset(0); 	
 		$xml = $this->makeHTTPRequest(); 
-		
 		$this->parseData($xml); 
 
+		return $this->result; 
 
 	}
 

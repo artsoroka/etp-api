@@ -1,0 +1,4789 @@
+Array
+(
+    [@attributes] => Array
+        (
+            [total] => 233
+        )
+
+    [procedure] => Array
+        (
+            [0] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403158
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП302005
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212011
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403015
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405319
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403212
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212010
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304135
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405039
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401208530
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404268
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404320
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404257
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404241
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404197
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405054
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403099
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403107
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404342
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403172
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405013
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [21] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404055
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [22] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403123
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [23] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404358
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [24] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405316
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [25] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403351
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [26] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403092
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [27] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404097
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [28] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404294
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [29] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405334
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404253
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [31] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404079
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [32] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404470
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [33] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405176
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [34] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402184
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [35] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404269
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [36] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304130
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [37] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП312106
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [38] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404449
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [39] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401121
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [40] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404208
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [41] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401178
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [42] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404216
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [43] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404217
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [44] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404218
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [45] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403254
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [46] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402159
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [47] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402168
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [48] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402177
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [49] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405285
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [50] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304143
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [51] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402245
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [52] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403014
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [53] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403063
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [54] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403098
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [55] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403243
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [56] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403286
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [57] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403285
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [58] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403341
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 6
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 6
+                                )
+
+                        )
+
+                )
+
+            [59] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403348
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [60] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403346
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [61] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212016
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [62] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404035
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [63] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404069
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [64] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404074
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [65] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404078
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [66] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404143
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [67] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404139
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [68] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404153
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 8
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 8
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 8
+                                )
+
+                        )
+
+                )
+
+            [69] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404179
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [70] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404192
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [71] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404194
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [72] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404191
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [73] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404417
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [74] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404244
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [75] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405248
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [76] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404421
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [77] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404272
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [78] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401080298
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 8
+                        )
+
+                )
+
+            [79] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404286
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [80] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404289
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [81] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404338
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [82] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404407
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [83] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404361
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [84] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404425
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [85] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404426
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [86] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404443
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [87] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404461
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [88] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401178218
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [89] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405259
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [90] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404545
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [91] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405010
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [92] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405038
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [93] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403349
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [94] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405037
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [95] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405154
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [96] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405079
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [97] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405089
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [98] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405100
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [99] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401151872
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [100] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405128
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [101] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405131
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [102] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405135
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [103] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405139
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [104] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405136
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [105] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405158
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [106] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405168
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [107] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405171
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [108] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405187
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [109] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401163933
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [110] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401164635
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [111] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401165049
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [112] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405195
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [113] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404375
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [114] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405222
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [115] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405237
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [116] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401155074
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [117] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404213
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [118] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405257
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [119] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405251
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [120] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403207
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [121] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401190091
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [122] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405300
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [123] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405301
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [124] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405305
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [125] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405190
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [126] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402107
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [127] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП306076
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [128] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП311071
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [129] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403016
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [130] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405117
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [131] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212014
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [132] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП310061
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [133] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304142
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [134] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405119
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [135] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП311249
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 2
+                        )
+
+                )
+
+            [136] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП305087
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [137] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП312161
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 6
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 6
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 6
+                                )
+
+                        )
+
+                )
+
+            [138] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП312179
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [139] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401066
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [140] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП306075
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [141] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304129
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [142] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП306077
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [143] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП305041
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [144] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП308051
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [145] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212002
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [146] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП312215
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [3] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 4
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [147] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП312210
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [148] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404193
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [149] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402013
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [150] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402194
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [151] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403110
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [152] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403269
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [153] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403352
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [154] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403271
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [155] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403297
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [156] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403350
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [157] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403375
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [158] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402037
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [3] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 4
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [4] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 5
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [5] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 6
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [6] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 7
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [159] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404151
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [160] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404366
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [161] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405011
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [162] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404341
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [163] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404456
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [164] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212001
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [165] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405141
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [166] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405078
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [167] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404394
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [168] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404099
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [169] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404072
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [170] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401177
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [2] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 3
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [171] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403224
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [172] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403187
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [173] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403190
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [174] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП306026
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [175] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП310118
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [176] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402240
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [177] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304119
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [178] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404135
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [179] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП310028
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [180] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП308052
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [181] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401145
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [182] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404203
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [183] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401199233
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [184] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401199240
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [185] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401199223
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [186] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401199236
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [187] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401199447
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [188] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212015
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [189] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404313
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [190] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405012
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [191] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401014
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [192] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405368
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [193] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405045
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [194] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405376
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [195] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212007
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [196] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405247
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [197] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405246
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [198] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404300
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [199] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404073
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [200] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП308104
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [201] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404452
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [202] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403248
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [203] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404433
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [204] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401204999
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [205] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП402226
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [206] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403017
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [207] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП304120
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [208] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП306074
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 4
+                        )
+
+                )
+
+            [209] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404274
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [210] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404408
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [211] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => 31401171375
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [212] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405402
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [213] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405193
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [214] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП212009
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [215] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401186
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [216] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403223
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [217] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403208
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [218] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405224
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [219] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401149
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [220] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404221
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 4
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 4
+                                )
+
+                        )
+
+                )
+
+            [221] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404474
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [222] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403105
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [223] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403316
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [224] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404044
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [225] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404056
+                        )
+
+                    [lot] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 1
+                                        )
+
+                                    [status] => 3
+                                )
+
+                            [1] => Array
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [number] => 2
+                                        )
+
+                                    [status] => 3
+                                )
+
+                        )
+
+                )
+
+            [226] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП405232
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [227] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404267
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [228] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП401139
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [229] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404265
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [230] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП404390
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+            [231] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403372
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 3
+                        )
+
+                )
+
+            [232] => Array
+                (
+                    [@attributes] => Array
+                        (
+                            [registry_number] => ГП403091
+                        )
+
+                    [lot] => Array
+                        (
+                            [@attributes] => Array
+                                (
+                                    [number] => 1
+                                )
+
+                            [status] => 6
+                        )
+
+                )
+
+        )
+
+)
